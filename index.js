@@ -98,7 +98,7 @@
       return { x: CX + x, y: CY + y };
     }
  
-    const labels = ['I love you', 'te amo', "je t'aime", 'I love you', 'ti amo', 'I love you'];
+    const labels = ['I love you', 'Happy mothers Day', "You the best", 'I love you', 'Happy mothers day', 'You the best'];
     const nodes  = [];
  
     for (let i = 0; i < COUNT; i++) {
